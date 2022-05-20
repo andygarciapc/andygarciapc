@@ -1,8 +1,8 @@
 ## Andy Garcia
 - ⚡ I’m currently working on video-game modifications, as well as website devopment!
 - ⚡ Student at Cal State Fullerton
-- ⚡ Learning about Compilers and Languages.
-- 💬 Ask me about my WorldBox mods, or anything else. :)
+- ⚡ Learning about Compilers, Swift, and C programming at the moment.
+- 💬 Ask me about my work!
 - ⚡ Pronouns: He/Him
 - ⚡ Fun fact: My favorite color is orange!
 
