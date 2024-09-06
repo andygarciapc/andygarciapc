@@ -8,8 +8,15 @@
 - ⚡ Pronouns: He/Him
 
 
+Keep moving forward
 -> Keep moving forward ->
+--> Keep moving forward -->
+---> Keep moving forward --->
+----> Keep moving forward ---->
+-----> Keep moving forward ----->
 
 
 ### Contact me at: andygarciapc@gmail.com
+
+
 ### Portfolio: https://andygarciapc.github.io/portfolio/
