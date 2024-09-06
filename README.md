@@ -8,9 +8,6 @@
 - ⚡ Pronouns: He/Him
 
 
-Keep moving forward
-
-
 -> Keep moving forward ->
 
 
