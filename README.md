@@ -1,5 +1,5 @@
 ## Andy Garcia
-- ⚡ I’m currently working on video-game modifications, as well as website devopment!
+- ⚡ I’m currently working on video-game modifications, as well as website development!
 - ⚡ Student at Cal State Fullerton
 - 💬 Ask me about my work!
 - ⚡ Pronouns: He/Him
