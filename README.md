@@ -1,7 +1,5 @@
 ## Andy Garcia
 
-### Portfolio Website: https://andygarciapc.github.io/portfolio/
-
 
 - ⚡ I’m currently working on video-game modifications, website development, and my first video-game: GPT-RPG.
 - ⚡ Bachelor's Degree in Computer Science | California State Universty, Fullerton
@@ -14,3 +12,4 @@
 
 
 ### Contact me at: andygarciapc@gmail.com
+### Portfolio: https://andygarciapc.github.io/portfolio/
