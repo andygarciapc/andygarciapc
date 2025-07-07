@@ -15,18 +15,6 @@
 -> Keep moving forward ->
 
 
---> Keep moving forward -->
-
-
----> Keep moving forward --->
-
-
-----> Keep moving forward ---->
-
-
------> Keep moving forward ----->
-
-
 ### Contact me at: andygarciapc@gmail.com
 
 
