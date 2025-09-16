@@ -1,7 +1,7 @@
 ## Andy Garcia
 
 
-⚡ I’m currently working on video-game modifications, website development, and my first video-game: GPT-RPG.
+⚡ I’m currently working on video-game modifications, website development, and some other personal projects 🤫.
 
 ⚡ Bachelor's Degree in Computer Science | California State Universty, Fullerton
 
